@@ -30,8 +30,10 @@ body {
 	padding: 10px;
 }
 input {
-	border: none;
-	border-bottom-color: grey !important;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom-color: grey;
 }
 .postcard-footer {
 	text-align: center;
